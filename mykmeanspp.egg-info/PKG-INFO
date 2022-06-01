@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: mykmeanspp
+Version: 0.1.0
+Summary: Software Project
+Home-page: UNKNOWN
+Author: Shiran Shaharabani and Amit Sharon
+Author-email: amitsharon@mail.tau.ac.il
+License: Dangerous and should not be used by anyone
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython

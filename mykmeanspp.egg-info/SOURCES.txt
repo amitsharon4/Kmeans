@@ -1,0 +1,7 @@
+kmeans.c
+setup.py
+mykmeanspp.egg-info/PKG-INFO
+mykmeanspp.egg-info/SOURCES.txt
+mykmeanspp.egg-info/dependency_links.txt
+mykmeanspp.egg-info/requires.txt
+mykmeanspp.egg-info/top_level.txt
